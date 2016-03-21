@@ -1,0 +1,41 @@
+Zuolin Li, 998829351
+Hanyuan Dong, 998983129
+
+
+Arrival Rate(¦Ë): 0.2
+Transmission Rate(u): 1.0
+Average queue length: 0.2248
+Utilization:19.89%
+Package dropped: 1565
+
+-----------------------------
+
+Arrival Rate(¦Ë): 0.4
+Transmission Rate(u): 1.0
+Average queue length: 0.4613
+Utilization:40.07%
+Package dropped: 5404
+
+-----------------------------
+
+Arrival Rate(¦Ë): 0.6
+Transmission Rate(u): 1.0
+Average queue length: 0.6791
+Utilization:60.5%
+Package dropped: 10208
+
+----------------------------
+
+Arrival Rate(¦Ë): 0.8
+Transmission Rate(u): 1.0
+Average queue length: 0.8533
+Utilization:79.9%
+Package dropped: 14861
+
+---------------------------
+
+Arrival Rate(¦Ë): 0.9
+Transmission Rate(u): 1.0
+Average queue length: 0.935
+Utilization:90.83%
+Package dropped: 17613
